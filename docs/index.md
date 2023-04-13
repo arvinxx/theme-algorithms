@@ -1,6 +1,6 @@
 ---
 hero:
-  title: @arvinxu/npm-template
+  title: @ant-design/theme-algorithms
   description: a npm develop template
   actions:
     - text: 快速上手

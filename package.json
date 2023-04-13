@@ -1,18 +1,18 @@
 {
-  "name": "@arvinxu/npm-template",
-  "version": "1.7.0",
+  "name": "@ant-design/theme-algorithms",
+  "version": "0.0.0",
   "description": "a npm develop template",
   "keywords": [
     "npm",
     "template"
   ],
-  "homepage": "https://github.com/arvinxx/npm-template",
+  "homepage": "https://github.com/@ant-design/theme-algorithms",
   "bugs": {
-    "url": "https://github.com/arvinxx/npm-template/issues/new"
+    "url": "https://github.com/@ant-design/theme-algorithms/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arvinxx/npm-template.git"
+    "url": "https://github.com/@ant-design/theme-algorithms.git"
   },
   "license": "MIT",
   "author": "arvinxx(arvinx@foxmail.com)",
@@ -76,7 +76,7 @@
     "eslint-import-resolver-typescript": "^2",
     "father": "^4",
     "husky": "^8",
-    "jsdom": "^21.1.1",
+    "jsdom": "^21",
     "lint-staged": "^13",
     "prettier": "^2",
     "prettier-plugin-organize-imports": "^3",
